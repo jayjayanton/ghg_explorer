@@ -1,0 +1,1 @@
+Build a searchable, interactive tool to explore facility-level GHG emissions in the U.S., focusing on oil & gas, power plants, and landfills. Help users identify high-emitting sites, track trends, and evaluate nearby environmental justice (EJ) risks.
